@@ -1,5 +1,7 @@
 # Project-1---Decode-Labs---Internship:
 # DecodeLabs Internship - Project 1: The Responsive Layout
+![Application Preview 1](image.png)
+![Application Preview 1](image2.png)
 
 This repository contains the completed *Project 1: Responsive Frontend Interface* milestone for the DecodeLabs Full Stack Development training track. It features a warm, grounded 2025 aesthetic layout optimized natively across mobile, tablet, and desktop views.
 
